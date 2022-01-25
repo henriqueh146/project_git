@@ -18,4 +18,8 @@ class Main
   def to_git1
     "git2"
   end
+
+  def meu_metodo
+    "testando"
+  end
 end
